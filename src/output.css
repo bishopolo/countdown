@@ -572,6 +572,11 @@ video {
   margin-bottom: 1rem;
 }
 
+.my-9 {
+  margin-top: 2.25rem;
+  margin-bottom: 2.25rem;
+}
+
 .grid {
   display: grid;
 }
